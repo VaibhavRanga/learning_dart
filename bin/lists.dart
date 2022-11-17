@@ -24,7 +24,7 @@ void main(List<String> args) {
   list1.insertAll(3, list2);
   print(list1);
 
-  //Updates an element in a list.
+  //Replaces an element in a list.
   list2[2] = 100;
 
   print(list2);
